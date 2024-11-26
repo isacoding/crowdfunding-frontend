@@ -22,6 +22,8 @@ function NavBar() {
     <div>
       <nav>
         <Link to="/">Home</Link>
+        {/* <Link to="/">Project</Link>
+        <Link to="/">Contact</Link> */}
       </nav>
       <Outlet />
     </div>
