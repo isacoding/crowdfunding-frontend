@@ -1,31 +1,3 @@
-/* ProjectCard.css */
-/* .project-card {
-  border: 1px solid #ccc;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-  overflow: hidden;
-  text-align: center;
-  background-color: #fff;
-  transition: transform 0.2s;
-}
-
-.project-card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-.project-card h3 {
-  font-size: 1.2rem;
-  padding: 10px 0;
-}
-
-.project-card:hover {
-  transform: translateY(-5px); /* Adds a hover effect */
-/* }  */
-
-/* v2 */
-/* ProjectCard.css */
 .project-card {
   border: 1px solid #ccc;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
